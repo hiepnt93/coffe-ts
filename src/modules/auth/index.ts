@@ -1,6 +1,6 @@
 import LoginScreen from './screens/LoginScreen';
 import SignupScreen from './screens/SignupScreen';
-import { appModule } from '../../lib/modules';
+import { appModule } from '../../core/lib/modules';
 
 export const screens = {
     login:LoginScreen,
